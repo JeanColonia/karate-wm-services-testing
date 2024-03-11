@@ -1,0 +1,12 @@
+{
+ "payload": {
+ "clearUserId": "#string",
+ "mamCredentials": {
+ "clientId": "#string",
+ "clientSecret": "#string",
+ "userId": "#string",
+ "password": "#string",
+ "encrypted":"#boolean"
+ }
+ }
+ }

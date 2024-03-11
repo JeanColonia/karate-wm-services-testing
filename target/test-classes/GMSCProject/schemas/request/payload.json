@@ -1,0 +1,12 @@
+{
+ "payload": {
+ "clearUserId": "har1clear",
+ "mamCredentials": {
+ "clientId": "MAM",
+ "clientSecret": "MAM",
+ "userId": "srv_clearWebservices",
+ "password": "Alephclear17",
+ "encrypted": false
+ }
+ }
+ }
